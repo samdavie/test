@@ -39,9 +39,6 @@ def get_room_details():
 
 
 #make a change
-#another change
-#yet another change
-#what happens now
 
 if __name__ == '__main__':
 
